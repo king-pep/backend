@@ -1,0 +1,12 @@
+{
+  "@kingether/generator-kingether": {
+    "appName": "fnb",
+    "packageName": "za.co.fnb",
+    "databaseType": "mysql",
+    "dbMigrationTool": "flywaydb",
+    "features": [],
+    "buildTool": "gradle",
+    "packageFolder": "za/co/fnb",
+    "flywayMigrationCounter": 1
+  }
+}
