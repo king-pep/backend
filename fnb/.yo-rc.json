@@ -7,6 +7,6 @@
     "features": [],
     "buildTool": "gradle",
     "packageFolder": "za/co/fnb",
-    "flywayMigrationCounter": 1
+    "flywayMigrationCounter": 4
   }
 }
